@@ -75,15 +75,15 @@ body {
 }
   
 .user-list .user-info {
-  margin-left: 10px;
+  margin-left: 12px;
 }
 
 .user-list .user-info h4 {
-  margin: 0 0 10px;
+  margin: 0 0 8px;
 }
   
 .user-list .user-info p {
-  font-size: 12px;
+  font-size: 10px;
 }
 
 .user-list li:not(:last-of-type) {
