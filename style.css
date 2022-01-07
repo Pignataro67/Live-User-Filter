@@ -10,16 +10,16 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 95vh;
   overflow: hidden;
-  margin: 0;
+  margin: 2;
 }
 
 .container {
-  border-radius: 5px;
-  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
   overflow: hidden;
-  width: 300px;
+  width: 295px;
 }
 
 .title {
