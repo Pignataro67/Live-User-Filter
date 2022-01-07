@@ -17,7 +17,7 @@ body {
 
 .container {
   border-radius: 10px;
-  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
   overflow: hidden;
   width: 295px;
 }
@@ -28,23 +28,23 @@ body {
   
 .subtitle {
   display: inline-block;
-  margin: 5px 0 20px;
-  opacity: 0.8;
+  margin: 5px 0 25px;
+  opacity: 0.5;
 }
 
 .header {
   background-color: #3e57db;
   color: #fff;
-  padding: 30px 20px;
+  padding: 25px 30px;
 }
 
 .header input {
   background-color: rgba(0, 0, 0, 0.3);
   border: 0;
-  border-radius: 50px;
+  border-radius: 45px;
   color: #fff;
-  font-size: 14px;
-  padding: 10px 15px;
+  font-size: 15px;
+  padding: 15px 15px;
   width: 100%;
 }
 
